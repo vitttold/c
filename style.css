@@ -37,10 +37,12 @@ ul {
   margin: 0;
   padding: 0px;
 }
-li, .h3 {
+li, 
+.h3 {
   list-style: none;
 }
-input,button{
+input,
+button{
   outline: none;
 }
 button {
@@ -107,7 +109,8 @@ li > * {
 li > input[type="checkbox"] {
   margin: 0 10px;
 }
-.task, .new-task  {
+.task, 
+.new-task  {
   padding-left: 10px;
   box-sizing: border-box;
   font-size: 18px;
